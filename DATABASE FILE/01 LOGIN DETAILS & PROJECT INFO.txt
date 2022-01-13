@@ -1,0 +1,6 @@
+Database Name: schoolfeesys
+
+Login Details
+
+Username: admin
+Password: system123
